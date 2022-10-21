@@ -6,7 +6,6 @@ public class codeQ1 {
 public static void main(String[] args) {
     int pexp=100;
     int op=0;
-    // int monsters=5;
     int mex[]={101,100,304,500,78,89};
     int bp[]={100,1,524,45,101,45};
     HashMap<Integer,Integer> hm= new HashMap<>();
